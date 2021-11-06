@@ -31,9 +31,9 @@
 
 #include <vector>
 
-#include "talk/examples/peerconnection/server/data_socket.h"
-#include "talk/examples/peerconnection/server/peer_channel.h"
-#include "talk/examples/peerconnection/server/utils.h"
+#include "data_socket.h"
+#include "peer_channel.h"
+#include "utils.h"
 #include "webrtc/base/flags.h"
 
 DEFINE_bool(help, false, "Prints this message");
