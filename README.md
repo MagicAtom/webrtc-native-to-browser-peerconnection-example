@@ -9,7 +9,7 @@ Check out the blog post for usage instructions. Enjoy :)
 
 Please go to [aisouard/libwebrtc](https://github.com/aisouard/libwebrtc.git), they have compiled libwebrtc for several platforms for several os.
 
-**And download the version you prefer in their release. ** This is a important step, please do not ignore or jump if you want to compile and run.
+**And download the version you prefer in their release.** This is a important step, please do not ignore or jump if you want to compile and run.
 
 After download, just add the include and lib directory to server or client, or any other way you like is okay.
 
