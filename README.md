@@ -22,3 +22,6 @@ cmake ..
 make
 ```
 
+Actually you can find examples are all here, some file are losen.
+If you use macos or linux to compile the client part, please go to linux branch for details.
+https://chromium.googlesource.com/external/webrtc/+/5f93d0a140515e3b8cdd1b9a4c6f5871144e5dee/talk/
